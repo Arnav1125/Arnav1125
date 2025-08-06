@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arnav Gurung (@Arnav11)
 
-### 📊 Data Analyst | Java Backend (Minor) | BCA Student | Ex-Intern @ PawSaathi | Excel, SQL, Power BI, Spring Boot
+### 📊 Data Analyst | Java Backend  | BCA Student | Ex-Intern @ PawSaathi | Excel, SQL, Power BI, Spring Boot
 
 - 👀 **Aspiring Data Analyst skilled in Excel, SQL, and Power BI for transforming data into impactful insights. With a solid foundation in backend development using Java and Spring Boot, I bridge data and software to solve real-world problems. Passionate about creating clean dashboards, exploring datasets, and making data-driven decisions.
 - 🌱 **Currently diving into**: Advanced microservices architecture, mastering front-end frameworks, and integrating APIs that bring ideas to life.
