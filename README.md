@@ -1,15 +1,45 @@
-# 👋 Hello, I'm Arnav Gurung (@Arnav11)
+👋 Hi, I'm Arnav Gurung
 
-### 📊 Data Analyst | Java Backend  | BCA Student | Ex-Intern @ PawSaathi | Excel, SQL, Power BI, Spring Boot
+📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python (Pandas, NumPy)
+🎓 BCA Student | Ex-Intern @ PawSaathi
 
-- 👀 **Aspiring Data Analyst skilled in Excel, SQL, and Power BI for transforming data into impactful insights. With a solid foundation in backend development using Java and Spring Boot, I bridge data and software to solve real-world problems. Passionate about creating clean dashboards, exploring datasets, and making data-driven decisions.
-- 🌱 **Currently diving into**: Advanced microservices architecture, mastering front-end frameworks, and integrating APIs that bring ideas to life.
-- 💞️ **Looking to collaborate on**: Open-source projects, innovative web applications, or anything that challenges the status quo. Let's build something amazing together!
-- 📫 **Reach me at**: [arnavgurung67@gmail.com](mailto:arnavgurung67@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/arnavgurung) 
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: When I'm not coding, you can find me trekking in the Himalayas, exploring nature, or playing with my dog, Casper 🐶.
+I specialize in analyzing datasets, building dashboards, and turning raw data into clear insights. My background in backend development helps me connect data workflows with real-world applications.
 
-### 🚀 Let's code the future, one commit at a time!
+🔍 What I Do
 
+Clean, transform, and analyze datasets using Excel, SQL, and Python
 
+Create interactive dashboards & reports in Power BI
 
+Work on beginner-friendly data analytics case studies & projects
+
+Write clean, documented code for reproducible analysis
+
+🌱 Currently Learning
+
+Advanced SQL
+
+Power BI DAX & data modeling
+
+Python for Data Analysis & Automation
+
+Statistical thinking for real-world business problems
+
+🤝 Open to Collaborate On
+
+Data analysis projects
+
+Dashboards, visualizations & datasets
+
+Open-source analytics contributions
+
+📫 Reach Me
+
+📧 arnavgurung67@gmail.com
+🔗 LinkedIn: (Add your link)
+
+⚡ Fun Fact
+
+When I’m not analyzing data, I’m trekking in the Himalayas or playing with my dog, Casper 🐶.
+
+🚀 Let’s turn data into decisions.
