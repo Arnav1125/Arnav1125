@@ -8,7 +8,7 @@
 
 ### 🎓 Background
 
-I am a **BCA Student** and an **Ex-Intern @ PawSaathi**.
+🎓 **BCA Graduate** and an **Ex-Intern @ PawSaathi**.
 
 I specialize in **analyzing datasets**, **building dashboards**, and turning raw data into **clear insights**. My background in backend development helps me connect data workflows with real-world applications.
 
